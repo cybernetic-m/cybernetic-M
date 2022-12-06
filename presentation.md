@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cybernetic-M, a student of Cybernetic Engineering at the University of Palermo!
-- 🌱 I’m currently learning the Genetic Algorithms and Machine Learning
+- 👋 Hi, I’m @cybernetic-m, a student of master degree "Artificial Intelligence and Robotics" at Sapienza University in Rome!
+- 🌱 I’m currently learning Machine Learning and Robotics! 
 - 📫 email: romano.massimo.uni@gmail.com
 
